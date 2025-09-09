@@ -1,3 +1,5 @@
 /venv
 /nc_tutorials
 /app/.env
+/app/tutorials
+/app/users
